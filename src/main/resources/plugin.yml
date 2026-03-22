@@ -1,0 +1,6 @@
+name: SimpleAntiCheat
+version: 1.0.0
+main: com.example.anticheat.SimpleAntiCheatPlugin
+api-version: '1.20'
+author: OpenAI
+website: https://openai.com
